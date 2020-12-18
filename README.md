@@ -6,7 +6,7 @@ This is a web application that takes a user's birthday and calculates the day of
 My name is Beline Mugisha. A front end developer currently studying web Development at Moringa School.
 
 ##SETUP INSTRUCTIONS
-This is a sipmle open source project designed with the help of HTML,CSS,JavaScript,terminal and git. Setting up the web application is easy but might get messy if not dealt with in precautions. The advantage of this open source project is that it is easy to get and install given that one is familiar with git.All one needs to do in order to get a copy of this project is by cloning it in his machine.This web application site is published readily on github.The ink is given at the end of this documentation.
+This is a sipmle open source project designed with the help of HTML,CSS,JavaScript,terminal and git. Setting up the web application is easy but might get messy if not dealt with in precautions. The advantage of this open source project is that it is easy to get and install given that one is familiar with git.All one needs to do in order to get a copy of this project is by cloning it in his machine.This web application site is published readily on github.The link is given at the end of this documentation.
 
 ##BDD
 The code of this appication is built with precautions keeping in mind the correct program flow of a computer system.One is required to enter the necessary data in the required fields.In essence: The century born,The year born, The month born and the Date of the month when born. The back end of the program is clearly defined in the web application description.In the output part, the program outputs the week when the person was born depending on weather male or female.
@@ -15,12 +15,12 @@ The code of this appication is built with precautions keeping in mind the correc
 The following is the list of the technology that was used. Terminal Git HTML(Herper Text Markup Language) CSS(Cascading Style Sheets) Javascript
 
 ##CONTACT INFORMATION
-All parties are welcome fo any contribtions or corrections at the following email. hosanajoshua@gmail.com
+All parties are welcome fo any contribtions or corrections at the following email. mugishabeline21@gmail.com
 
 ##LICENSE AND COPYRIGHT INFORMATION
 MIT License
 
-#Copyright (c) 2020 Joshua-254
+#Copyright (c) 2020 beline-21
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
