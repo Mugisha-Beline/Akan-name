@@ -11,7 +11,7 @@ My name is Beline Mugisha. A front end developer currently studying web Developm
 
 This is a sipmle open source project designed with the help of HTML,CSS,JavaScript,terminal and git. Setting up the web application is easy but might get messy if not dealt with in precautions. The advantage of this open source project is that it is easy to get and install given that one is familiar with git.All one needs to do in order to get a copy of this project is by cloning it in his machine.This web application site is published readily on github.The link is given at the end of this documentation.
 
-##*BDD*
+##*Behaviour Driven Development (BDD)*
 
 The code of this appication is built with precautions keeping in mind the correct program flow of a computer system.One is required to enter the necessary data in the required fields.In essence: The century born,The year born, The month born and the Date of the month when born. The back end of the program is clearly defined in the web application description.In the output part, the program outputs the week when the person was born depending on weather male or female.
 
