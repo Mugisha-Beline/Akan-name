@@ -1,10 +1,6 @@
 # By Mugisha Ahujabe Marie Beline !
 
-<<<<<<< HEAD
-### Website
-=======
 ## Website
->>>>>>> 6e215fa2f25b7482a7abefbaa22a249b74f9e43b
 
 The website is available [here](https://mugisha-beline.github.io/Akan-name/ "website")
 
