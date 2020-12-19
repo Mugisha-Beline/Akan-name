@@ -17,7 +17,7 @@ The code of this appication is built with precautions keeping in mind the correc
 
 ##*TECHNOLOGIES USED*
 
-The following is the list of the technology that was used. Terminal Git HTML(Herper Text Markup Language) CSS(Cascading Style Sheets) Javascript
+The following is the list of the technology that was used. Terminal Git HTML(Herper Text Markup Language), CSS(Cascading Style Sheets), Javascript
 
 ##*CONTACT INFORMATION*
 
